@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="evritracking">
+  <defs>
+    <linearGradient id="g" x1="64" y1="48" x2="448" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FD6B26"/>
+      <stop offset="1" stop-color="#E84E0F"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#211F1F"/>
+  <path fill="url(#g)" d="M128 176c0-26.5 21.5-48 48-48h112c53 0 96 43 96 96 0 35.5-19.3 66.5-48 83.2V368c0 17.7-14.3 32-32 32h-48c-17.7 0-32-14.3-32-32V307.2C195.3 290.5 176 259.5 176 224c0-8.8 7.2-16 16-16h48c8.8 0 16 7.2 16 16s-7.2 16-16 16h-16c0 17.7 14.3 32 32 32h48c17.7 0 32-14.3 32-32s-14.3-32-32-32H176c-26.5 0-48-21.5-48-48z"/>
+  <circle cx="368" cy="368" r="48" fill="#FD6B26"/>
+  <path fill="#211F1F" d="M368 344v28h28v20h-28v28h-20v-28h-28v-20h28v-28z"/>
+</svg>

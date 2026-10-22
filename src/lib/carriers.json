@@ -1,0 +1,1950 @@
+[
+  {
+    "name": "Austria Post",
+    "code": "austria-post"
+  },
+  {
+    "name": "ABF Freight",
+    "code": "abf"
+  },
+  {
+    "name": "Averitt Express",
+    "code": "averitt"
+  },
+  {
+    "name": "ASL Distribution",
+    "code": "asl-distribution"
+  },
+  {
+    "name": "Amazon Shipping",
+    "code": "amazon-india"
+  },
+  {
+    "name": "Allied Express",
+    "code": "alliedexpress"
+  },
+  {
+    "name": "Bpost International",
+    "code": "bpost-international"
+  },
+  {
+    "name": "PostMedia Parcel",
+    "code": "postmedia"
+  },
+  {
+    "name": "Blue Express",
+    "code": "bluex"
+  },
+  {
+    "name": "Boxcheck",
+    "code": "boxcheck"
+  },
+  {
+    "name": "Bleckmann",
+    "code": "bleckmann"
+  },
+  {
+    "name": "BoxC",
+    "code": "boxc"
+  },
+  {
+    "name": "Cacesa",
+    "code": "hispapost"
+  },
+  {
+    "name": "Czech Post",
+    "code": "czech-post"
+  },
+  {
+    "name": "Courier.gr",
+    "code": "courier-gr"
+  },
+  {
+    "name": "Costco Logistics",
+    "code": "costco"
+  },
+  {
+    "name": "Dachser",
+    "code": "dachser"
+  },
+  {
+    "name": "DMF Courier",
+    "code": "dmf"
+  },
+  {
+    "name": "Apple Express",
+    "code": "apple-express"
+  },
+  {
+    "name": "EQuick",
+    "code": "equick"
+  },
+  {
+    "name": "EFS Asia",
+    "code": "efs-asia"
+  },
+  {
+    "name": "ExpressOne",
+    "code": "expressone-hu"
+  },
+  {
+    "name": "ExpressOne BG",
+    "code": "expressone-bg"
+  },
+  {
+    "name": "Easymail",
+    "code": "easymail-gr"
+  },
+  {
+    "name": "Estes Express",
+    "code": "estes"
+  },
+  {
+    "name": "Exelot",
+    "code": "exelot"
+  },
+  {
+    "name": "Sendcloud",
+    "code": "sendcloud"
+  },
+  {
+    "name": "ShipGlobal",
+    "code": "shipglobal"
+  },
+  {
+    "name": "Spee-Dee",
+    "code": "speedee"
+  },
+  {
+    "name": "Korea Post",
+    "code": "korea-post"
+  },
+  {
+    "name": "Dayton Freight",
+    "code": "dayton-freight"
+  },
+  {
+    "name": "CDL Delivers",
+    "code": "cdl-delivers"
+  },
+  {
+    "name": "USPS",
+    "code": "usps"
+  },
+  {
+    "name": "UPS",
+    "code": "ups"
+  },
+  {
+    "name": "TForce Freight",
+    "code": "tforce-freight"
+  },
+  {
+    "name": "Top Logistics",
+    "code": "toplogistics"
+  },
+  {
+    "name": "UKP Worldwide",
+    "code": "ukp-worldwide"
+  },
+  {
+    "name": "Urvaam",
+    "code": "urvaam"
+  },
+  {
+    "name": "Royal Mail",
+    "code": "royal-mail"
+  },
+  {
+    "name": "Redur",
+    "code": "redur"
+  },
+  {
+    "name": "Redur Reference",
+    "code": "redur-reference"
+  },
+  {
+    "name": "Rincos",
+    "code": "rincos"
+  },
+  {
+    "name": "Raben Group",
+    "code": "raben"
+  },
+  {
+    "name": "ILG Delivery",
+    "code": "ilg-delivery"
+  },
+  {
+    "name": "Relais Colis",
+    "code": "relaiscolis"
+  },
+  {
+    "name": "RAF Philippines",
+    "code": "raf-ph"
+  },
+  {
+    "name": "FedEx",
+    "code": "fedex"
+  },
+  {
+    "name": "FedEx Poland",
+    "code": "fedex-poland"
+  },
+  {
+    "name": "Flash Express TH",
+    "code": "flash-express-th"
+  },
+  {
+    "name": "Flash Express MY",
+    "code": "flash-express-my"
+  },
+  {
+    "name": "FlashBox",
+    "code": "flashbox"
+  },
+  {
+    "name": "17Feia",
+    "code": "17feia"
+  },
+  {
+    "name": "FDM Australia",
+    "code": "fdm-au"
+  },
+  {
+    "name": "Fragt Denmark",
+    "code": "fragt-dk"
+  },
+  {
+    "name": "FirstFlight",
+    "code": "firstflight"
+  },
+  {
+    "name": "FleetOptics",
+    "code": "fleetoptics"
+  },
+  {
+    "name": "Yanwen",
+    "code": "yanwen"
+  },
+  {
+    "name": "YRC Freight",
+    "code": "yrc-freight"
+  },
+  {
+    "name": "Reddaway",
+    "code": "reddaway"
+  },
+  {
+    "name": "YTO Express",
+    "code": "yto"
+  },
+  {
+    "name": "Yurtici Kargo",
+    "code": "yurtici-kargo"
+  },
+  {
+    "name": "POS Malaysia",
+    "code": "pos-malaysia"
+  },
+  {
+    "name": "Pos Laju",
+    "code": "pos-laju"
+  },
+  {
+    "name": "PrettyLittleThing",
+    "code": "prettylittlething"
+  },
+  {
+    "name": "ParcelHub",
+    "code": "parcelhub"
+  },
+  {
+    "name": "Pony Express",
+    "code": "pony-express"
+  },
+  {
+    "name": "PPL CZ",
+    "code": "ppl-cz"
+  },
+  {
+    "name": "PBT Couriers",
+    "code": "pbt-couriers"
+  },
+  {
+    "name": "Parcel2Go",
+    "code": "parcel2go"
+  },
+  {
+    "name": "Postone",
+    "code": "postone-eu"
+  },
+  {
+    "name": "Passport Shipping",
+    "code": "passport-shipping"
+  },
+  {
+    "name": "Posti Finland",
+    "code": "posti-finland"
+  },
+  {
+    "name": "Purolator",
+    "code": "purolator"
+  },
+  {
+    "name": "Pilot Freight",
+    "code": "pilot-freight"
+  },
+  {
+    "name": "Polonez",
+    "code": "polonez"
+  },
+  {
+    "name": "Roadrunner",
+    "code": "roadrunner-freight"
+  },
+  {
+    "name": "Parcel.One",
+    "code": "parcel-one"
+  },
+  {
+    "name": "Palletways",
+    "code": "palletways"
+  },
+  {
+    "name": "PTS Express",
+    "code": "pts-express"
+  },
+  {
+    "name": "Pekaes",
+    "code": "pekaes"
+  },
+  {
+    "name": "4PX Express",
+    "code": "4px"
+  },
+  {
+    "name": "SpeedPAK",
+    "code": "speedpak"
+  },
+  {
+    "name": "DHL Express",
+    "code": "dhl"
+  },
+  {
+    "name": "DHL Paket",
+    "code": "dhl-paket"
+  },
+  {
+    "name": "Deutsche Post",
+    "code": "deutsche-post"
+  },
+  {
+    "name": "DPEX Worldwide",
+    "code": "dpex"
+  },
+  {
+    "name": "DPE China",
+    "code": "dpe-cn"
+  },
+  {
+    "name": "Deliver It",
+    "code": "deliver-it"
+  },
+  {
+    "name": "DEX-I",
+    "code": "dex-i"
+  },
+  {
+    "name": "Deprisa",
+    "code": "deprisa"
+  },
+  {
+    "name": "AliExpress Standard",
+    "code": "aliexpress-standard"
+  },
+  {
+    "name": "AliExpress Saver",
+    "code": "aliexpress-saver"
+  },
+  {
+    "name": "AliExpress Premium Shipping",
+    "code": "aliexpress-premium"
+  },
+  {
+    "name": "Cainiao",
+    "code": "cainiao"
+  },
+  {
+    "name": "Cainiao Super Economy",
+    "code": "cainiao-super-economy"
+  },
+  {
+    "name": "Cainiao Heavy Parcel Line",
+    "code": "cainiao-heavy"
+  },
+  {
+    "name": "Correos Spain",
+    "code": "correos-spain"
+  },
+  {
+    "name": "CJ Packet",
+    "code": "cj-packet"
+  },
+  {
+    "name": "Cyprus Post",
+    "code": "cyprus-post"
+  },
+  {
+    "name": "CoolRunner",
+    "code": "coolrunner"
+  },
+  {
+    "name": "CEVA",
+    "code": "ceva"
+  },
+  {
+    "name": "Wish Post",
+    "code": "wish-post"
+  },
+  {
+    "name": "Whistl",
+    "code": "whistl"
+  },
+  {
+    "name": "WeDo / InTime",
+    "code": "wedo-intime"
+  },
+  {
+    "name": "Flyt Express",
+    "code": "flyt-express"
+  },
+  {
+    "name": "Switzerland Post",
+    "code": "swiss-post"
+  },
+  {
+    "name": "SEKO Logistics",
+    "code": "seko"
+  },
+  {
+    "name": "Sending.es",
+    "code": "sending-es"
+  },
+  {
+    "name": "Sendex.mx",
+    "code": "sendex-mx"
+  },
+  {
+    "name": "Sendx.gr",
+    "code": "sendx-gr"
+  },
+  {
+    "name": "Saee",
+    "code": "saee"
+  },
+  {
+    "name": "Slovak Parcel Service",
+    "code": "slovak-parcel"
+  },
+  {
+    "name": "Yun Express",
+    "code": "yun-express"
+  },
+  {
+    "name": "CNE Express",
+    "code": "cne-express"
+  },
+  {
+    "name": "Belgium Post - Bpost",
+    "code": "bpost"
+  },
+  {
+    "name": "BuyLogic",
+    "code": "buylogic"
+  },
+  {
+    "name": "H&M",
+    "code": "hm"
+  },
+  {
+    "name": "Hermes Borderguru",
+    "code": "hermes-borderguru"
+  },
+  {
+    "name": "Helthjem",
+    "code": "helthjem"
+  },
+  {
+    "name": "Homerr",
+    "code": "homerr"
+  },
+  {
+    "name": "Old Dominion",
+    "code": "old-dominion"
+  },
+  {
+    "name": "Omniva / Estonia Post",
+    "code": "omniva"
+  },
+  {
+    "name": "Overseas.hr",
+    "code": "overseas-hr"
+  },
+  {
+    "name": "Singapore Post",
+    "code": "singpost"
+  },
+  {
+    "name": "PostNord",
+    "code": "postnord"
+  },
+  {
+    "name": "Poste Italiane",
+    "code": "poste-italiane"
+  },
+  {
+    "name": "POS Indonesia",
+    "code": "pos-indonesia"
+  },
+  {
+    "name": "Magyar Posta",
+    "code": "magyar-posta"
+  },
+  {
+    "name": "Matkahuolto",
+    "code": "matkahuolto"
+  },
+  {
+    "name": "Malta Post",
+    "code": "malta-post"
+  },
+  {
+    "name": "Morocco Post",
+    "code": "morocco-post"
+  },
+  {
+    "name": "Israel Post",
+    "code": "israel-post"
+  },
+  {
+    "name": "IMX France",
+    "code": "imx-france"
+  },
+  {
+    "name": "HappyPost",
+    "code": "happypost"
+  },
+  {
+    "name": "Ivoy",
+    "code": "ivoy"
+  },
+  {
+    "name": "IKEA ID",
+    "code": "ikea-id"
+  },
+  {
+    "name": "SFC - SendFromChina",
+    "code": "sfc"
+  },
+  {
+    "name": "SF-Express",
+    "code": "sf-express"
+  },
+  {
+    "name": "Correos Chile",
+    "code": "correos-chile"
+  },
+  {
+    "name": "Best Inc",
+    "code": "best-inc"
+  },
+  {
+    "name": "La Poste",
+    "code": "la-poste"
+  },
+  {
+    "name": "Lidl",
+    "code": "lidl"
+  },
+  {
+    "name": "Lotte Logistics",
+    "code": "lotte-logistics"
+  },
+  {
+    "name": "Lone Star Overnight (LSO.com)",
+    "code": "lso"
+  },
+  {
+    "name": "Posten",
+    "code": "posten"
+  },
+  {
+    "name": "Bring",
+    "code": "bring"
+  },
+  {
+    "name": "NZ Couriers",
+    "code": "nz-couriers"
+  },
+  {
+    "name": "WNDirect",
+    "code": "wndirect"
+  },
+  {
+    "name": "ASOS",
+    "code": "asos"
+  },
+  {
+    "name": "MetaPack",
+    "code": "metapack"
+  },
+  {
+    "name": "DPD",
+    "code": "dpd"
+  },
+  {
+    "name": "DPD IE",
+    "code": "dpd-ie"
+  },
+  {
+    "name": "DPD France",
+    "code": "dpd-france"
+  },
+  {
+    "name": "DPD UK",
+    "code": "dpd-uk"
+  },
+  {
+    "name": "DPD Portugal",
+    "code": "dpd-portugal"
+  },
+  {
+    "name": "DPD Poland",
+    "code": "dpd-poland"
+  },
+  {
+    "name": "DPD Romania",
+    "code": "dpd-romania"
+  },
+  {
+    "name": "DPD Group",
+    "code": "dpd-group"
+  },
+  {
+    "name": "DHL eCommerce",
+    "code": "dhl-ecommerce"
+  },
+  {
+    "name": "Post Haste",
+    "code": "post-haste"
+  },
+  {
+    "name": "Winit",
+    "code": "winit"
+  },
+  {
+    "name": "UBI Smart Parcel",
+    "code": "ubi-smart"
+  },
+  {
+    "name": "eTower",
+    "code": "etower"
+  },
+  {
+    "name": "SyTrack - SunYou",
+    "code": "sunyou"
+  },
+  {
+    "name": "P2P TRAKPAK",
+    "code": "p2p-trakpak"
+  },
+  {
+    "name": "PRO Carrier",
+    "code": "pro-carrier"
+  },
+  {
+    "name": "Tipsa",
+    "code": "tipsa"
+  },
+  {
+    "name": "Taxydromiki",
+    "code": "taxydromiki"
+  },
+  {
+    "name": "TForce Solutions",
+    "code": "tforce-solutions"
+  },
+  {
+    "name": "The Lorry",
+    "code": "the-lorry"
+  },
+  {
+    "name": "NovaPosta International",
+    "code": "novaposta"
+  },
+  {
+    "name": "TNT",
+    "code": "tnt"
+  },
+  {
+    "name": "TNT Italy",
+    "code": "tnt-italy"
+  },
+  {
+    "name": "Aramex",
+    "code": "aramex"
+  },
+  {
+    "name": "APC Postal Logistics",
+    "code": "apc-postal"
+  },
+  {
+    "name": "UPS i-parcel",
+    "code": "ups-iparcel"
+  },
+  {
+    "name": "Intelcom Express",
+    "code": "intelcom"
+  },
+  {
+    "name": "Collect+",
+    "code": "collectplus"
+  },
+  {
+    "name": "Skynet",
+    "code": "skynet"
+  },
+  {
+    "name": "Skynet Malaysia",
+    "code": "skynet-malaysia"
+  },
+  {
+    "name": "Stone3PL",
+    "code": "stone3pl"
+  },
+  {
+    "name": "Evri",
+    "code": "evri"
+  },
+  {
+    "name": "evri-business",
+    "code": "evri-business"
+  },
+  {
+    "name": "evri-international",
+    "code": "evri-international"
+  },
+  {
+    "name": "HR Parcel",
+    "code": "hr-parcel"
+  },
+  {
+    "name": "ArrowXL",
+    "code": "arrowxl"
+  },
+  {
+    "name": "DX Delivery",
+    "code": "dx-delivery"
+  },
+  {
+    "name": "myHermes DE",
+    "code": "myhermes-de"
+  },
+  {
+    "name": "Norsk Global",
+    "code": "norsk-global"
+  },
+  {
+    "name": "FastWay IE",
+    "code": "fastway-ie"
+  },
+  {
+    "name": "Aramex/Fastway AU",
+    "code": "fastway-au"
+  },
+  {
+    "name": "Aramex/Fastway NZ",
+    "code": "fastway-nz"
+  },
+  {
+    "name": "Fastway ZA",
+    "code": "fastway-za"
+  },
+  {
+    "name": "MRW",
+    "code": "mrw"
+  },
+  {
+    "name": "Emirates Post",
+    "code": "emirates-post"
+  },
+  {
+    "name": "Envialia",
+    "code": "envialia"
+  },
+  {
+    "name": "EC FirstClass / Chukou1",
+    "code": "ec-firstclass"
+  },
+  {
+    "name": "Omni Parcel",
+    "code": "omni-parcel"
+  },
+  {
+    "name": "BRT Bartolini (Parcel ID)",
+    "code": "brt-bartolini"
+  },
+  {
+    "name": "myBRT.it",
+    "code": "mybrt"
+  },
+  {
+    "name": "MailAmericas",
+    "code": "mailamericas"
+  },
+  {
+    "name": "Ekart Logistics",
+    "code": "ekart"
+  },
+  {
+    "name": "NinjaVan",
+    "code": "ninjavan"
+  },
+  {
+    "name": "NinjaVan Thailand",
+    "code": "ninjavan-th"
+  },
+  {
+    "name": "NinjaVan Philippines",
+    "code": "ninjavan-ph"
+  },
+  {
+    "name": "NinjaExpress",
+    "code": "ninjaexpress"
+  },
+  {
+    "name": "Ninja Van Vietnam",
+    "code": "ninjavan-vn"
+  },
+  {
+    "name": "Qxpress",
+    "code": "qxpress"
+  },
+  {
+    "name": "Delhivery",
+    "code": "delhivery"
+  },
+  {
+    "name": "XpressBees",
+    "code": "xpressbees"
+  },
+  {
+    "name": "Yamato Japan",
+    "code": "yamato"
+  },
+  {
+    "name": "Yamato Parcel",
+    "code": "yamato-parcel"
+  },
+  {
+    "name": "GFS Deliver",
+    "code": "gfs-deliver"
+  },
+  {
+    "name": "Geis Group",
+    "code": "geis-group"
+  },
+  {
+    "name": "Geis Poland",
+    "code": "geis-poland"
+  },
+  {
+    "name": "GDEX",
+    "code": "gdex"
+  },
+  {
+    "name": "GAASH",
+    "code": "gaash"
+  },
+  {
+    "name": "Grupo AM/PM",
+    "code": "grupo-ampm"
+  },
+  {
+    "name": "GLS US (GSO.com)",
+    "code": "gls-us"
+  },
+  {
+    "name": "GoGlobalPost.com",
+    "code": "goglobalpost"
+  },
+  {
+    "name": "City Link Express",
+    "code": "citylink"
+  },
+  {
+    "name": "City Mail",
+    "code": "citymail"
+  },
+  {
+    "name": "LBC Express",
+    "code": "lbc-express"
+  },
+  {
+    "name": "Luxembourg Post",
+    "code": "luxembourg-post"
+  },
+  {
+    "name": "JNE",
+    "code": "jne"
+  },
+  {
+    "name": "JRS Express",
+    "code": "jrs-express"
+  },
+  {
+    "name": "TIKI",
+    "code": "tiki"
+  },
+  {
+    "name": "Team Global Express",
+    "code": "team-global"
+  },
+  {
+    "name": "Team Global Express NZ",
+    "code": "team-global-nz"
+  },
+  {
+    "name": "Starlinks.app",
+    "code": "starlinks"
+  },
+  {
+    "name": "Star Track",
+    "code": "startrack"
+  },
+  {
+    "name": "Couriers Please",
+    "code": "couriers-please"
+  },
+  {
+    "name": "SMSA Express",
+    "code": "smsa"
+  },
+  {
+    "name": "IML",
+    "code": "iml"
+  },
+  {
+    "name": "Fan Courier",
+    "code": "fan-courier"
+  },
+  {
+    "name": "Asendia USA",
+    "code": "asendia-usa"
+  },
+  {
+    "name": "Asendia UK",
+    "code": "asendia-uk"
+  },
+  {
+    "name": "Asendia",
+    "code": "asendia"
+  },
+  {
+    "name": "Landmark Global",
+    "code": "landmark-global"
+  },
+  {
+    "name": "Meest Group",
+    "code": "meest"
+  },
+  {
+    "name": "Cargus.ro",
+    "code": "cargus"
+  },
+  {
+    "name": "SDA Express Courier",
+    "code": "sda"
+  },
+  {
+    "name": "Colissimo",
+    "code": "colissimo"
+  },
+  {
+    "name": "Chronopost France",
+    "code": "chronopost"
+  },
+  {
+    "name": "Colis Prive",
+    "code": "colis-prive"
+  },
+  {
+    "name": "DHL eCommerce Asia",
+    "code": "dhl-ecommerce-asia"
+  },
+  {
+    "name": "SEUR",
+    "code": "seur"
+  },
+  {
+    "name": "ABX Express",
+    "code": "abx-express"
+  },
+  {
+    "name": "DSV",
+    "code": "dsv"
+  },
+  {
+    "name": "DHL Netherlands",
+    "code": "dhl-netherlands"
+  },
+  {
+    "name": "DHL Global Forwarding",
+    "code": "dhl-global"
+  },
+  {
+    "name": "DHL Freight Active Tracing",
+    "code": "dhl-freight"
+  },
+  {
+    "name": "DHL Aviation",
+    "code": "dhl-aviation"
+  },
+  {
+    "name": "Correos express",
+    "code": "correos-express"
+  },
+  {
+    "name": "PPX Track/ePost Global",
+    "code": "ppx-track"
+  },
+  {
+    "name": "Mondial Relay",
+    "code": "mondial-relay"
+  },
+  {
+    "name": "InPost.es",
+    "code": "inpost-es"
+  },
+  {
+    "name": "DHL Parcel Netherlands",
+    "code": "dhl-parcel-nl"
+  },
+  {
+    "name": "DHL Parcel Slovakia",
+    "code": "dhl-parcel-sk"
+  },
+  {
+    "name": "TA-Q-BIN",
+    "code": "taqbin"
+  },
+  {
+    "name": "Sky Postal",
+    "code": "sky-postal"
+  },
+  {
+    "name": "APG eCommerce Solutions",
+    "code": "apg-ecommerce"
+  },
+  {
+    "name": "DB Schenker",
+    "code": "db-schenker"
+  },
+  {
+    "name": "DB Schenker NU",
+    "code": "db-schenker-nu"
+  },
+  {
+    "name": "DB Schenker Package ID",
+    "code": "db-schenker-pkg"
+  },
+  {
+    "name": "Clevy Links",
+    "code": "clevy-links"
+  },
+  {
+    "name": "J&T Express Indonesia",
+    "code": "jnt-id"
+  },
+  {
+    "name": "TrackYourParcel",
+    "code": "trackyourparcel"
+  },
+  {
+    "name": "toYou by ASDA",
+    "code": "toyou-asda"
+  },
+  {
+    "name": "Econt",
+    "code": "econt"
+  },
+  {
+    "name": "Eurodis",
+    "code": "eurodis"
+  },
+  {
+    "name": "CJ Logistics Malaysia",
+    "code": "cj-logistics-my"
+  },
+  {
+    "name": "CJ Logistics Singapore",
+    "code": "cj-logistics-sg"
+  },
+  {
+    "name": "CJ Logistics Thailand",
+    "code": "cj-logistics-th"
+  },
+  {
+    "name": "Quantium Solutions",
+    "code": "quantium"
+  },
+  {
+    "name": "Sagawa Global",
+    "code": "sagawa"
+  },
+  {
+    "name": "Saia LTL Freight",
+    "code": "saia"
+  },
+  {
+    "name": "Pgeon",
+    "code": "pgeon"
+  },
+  {
+    "name": "Entrego",
+    "code": "entrego"
+  },
+  {
+    "name": "ACS Courier",
+    "code": "acs-courier"
+  },
+  {
+    "name": "GLS Spain (ASM)",
+    "code": "gls-spain"
+  },
+  {
+    "name": "GLS Netherlands",
+    "code": "gls-netherlands"
+  },
+  {
+    "name": "GLS Croatia",
+    "code": "gls-croatia"
+  },
+  {
+    "name": "GLS Romania",
+    "code": "gls-romania"
+  },
+  {
+    "name": "GLS Czech Republic",
+    "code": "gls-czech"
+  },
+  {
+    "name": "GLS Hungary",
+    "code": "gls-hungary"
+  },
+  {
+    "name": "GEODIS E-space",
+    "code": "geodis"
+  },
+  {
+    "name": "Nacex",
+    "code": "nacex"
+  },
+  {
+    "name": "TForce",
+    "code": "tforce"
+  },
+  {
+    "name": "Dynalogic",
+    "code": "dynalogic"
+  },
+  {
+    "name": "DTDC",
+    "code": "dtdc"
+  },
+  {
+    "name": "DTDC India",
+    "code": "dtdc-india"
+  },
+  {
+    "name": "Line Clear Express",
+    "code": "lineclear"
+  },
+  {
+    "name": "J&T Express Singapore",
+    "code": "jnt-sg"
+  },
+  {
+    "name": "UrbanFox (Courex)",
+    "code": "urbanfox"
+  },
+  {
+    "name": "Urban Outfitters",
+    "code": "urban-outfitters"
+  },
+  {
+    "name": "EasyShip",
+    "code": "easyship"
+  },
+  {
+    "name": "aCommerce",
+    "code": "acommerce"
+  },
+  {
+    "name": "ThaiParcels",
+    "code": "thaiparcels"
+  },
+  {
+    "name": "Sendle",
+    "code": "sendle"
+  },
+  {
+    "name": "Spring Global Mail",
+    "code": "spring-global"
+  },
+  {
+    "name": "SiCepat Ekspres",
+    "code": "sicepat"
+  },
+  {
+    "name": "Celeritas Transporte",
+    "code": "celeritas"
+  },
+  {
+    "name": "CanPar",
+    "code": "canpar"
+  },
+  {
+    "name": "Speedy",
+    "code": "speedy"
+  },
+  {
+    "name": "DPD Greece",
+    "code": "dpd-greece"
+  },
+  {
+    "name": "Naqel Express",
+    "code": "naqel"
+  },
+  {
+    "name": "Qexpress",
+    "code": "qexpress"
+  },
+  {
+    "name": "Loomis Express",
+    "code": "loomis"
+  },
+  {
+    "name": "OCS Worldwide",
+    "code": "ocs-worldwide"
+  },
+  {
+    "name": "OSM Worldwide",
+    "code": "osm"
+  },
+  {
+    "name": "MyIB International Bridge",
+    "code": "myib"
+  },
+  {
+    "name": "Chit Chats",
+    "code": "chitchats"
+  },
+  {
+    "name": "Kuehne + Nagel",
+    "code": "kuehne-nagel"
+  },
+  {
+    "name": "Kerry Express",
+    "code": "kerry-express"
+  },
+  {
+    "name": "Kerry Express Thailand",
+    "code": "kerry-th"
+  },
+  {
+    "name": "Kerry eCommerce",
+    "code": "kerry-ecommerce"
+  },
+  {
+    "name": "Keythus Fulfillment",
+    "code": "keythus"
+  },
+  {
+    "name": "Janio",
+    "code": "janio"
+  },
+  {
+    "name": "Pickupp Hong Kong",
+    "code": "pickupp-hk"
+  },
+  {
+    "name": "Pickupp Malaysia",
+    "code": "pickupp-my"
+  },
+  {
+    "name": "Pickupp Singapore",
+    "code": "pickupp-sg"
+  },
+  {
+    "name": "Australia Post",
+    "code": "auspost"
+  },
+  {
+    "name": "Air21",
+    "code": "air21"
+  },
+  {
+    "name": "Maersk Line",
+    "code": "maersk"
+  },
+  {
+    "name": "MSC",
+    "code": "msc"
+  },
+  {
+    "name": "COSCO",
+    "code": "cosco"
+  },
+  {
+    "name": "COSCO B/L",
+    "code": "cosco-bl"
+  },
+  {
+    "name": "ONE",
+    "code": "one"
+  },
+  {
+    "name": "CMA CGM",
+    "code": "cma-cgm"
+  },
+  {
+    "name": "Hapag Lloyd",
+    "code": "hapag-lloyd"
+  },
+  {
+    "name": "Packeta",
+    "code": "packeta"
+  },
+  {
+    "name": "NOX Nachtexpress",
+    "code": "nox"
+  },
+  {
+    "name": "Domain Logistics",
+    "code": "domain-logistics"
+  },
+  {
+    "name": "Dicom",
+    "code": "dicom"
+  },
+  {
+    "name": "Nationex",
+    "code": "nationex"
+  },
+  {
+    "name": "Nexive",
+    "code": "nexive"
+  },
+  {
+    "name": "Sameday Romania",
+    "code": "sameday"
+  },
+  {
+    "name": "Ciblex",
+    "code": "ciblex"
+  },
+  {
+    "name": "Shipa",
+    "code": "shipa"
+  },
+  {
+    "name": "IKEA",
+    "code": "ikea"
+  },
+  {
+    "name": "Mail Boxes Etc",
+    "code": "mbe"
+  },
+  {
+    "name": "PaquetExpress",
+    "code": "paquetexpress"
+  },
+  {
+    "name": "LaserShip",
+    "code": "lasership"
+  },
+  {
+    "name": "Estafeta",
+    "code": "estafeta"
+  },
+  {
+    "name": "eShopWorld",
+    "code": "eshopworld"
+  },
+  {
+    "name": "ICS Courier",
+    "code": "ics-courier"
+  },
+  {
+    "name": "Syncreon",
+    "code": "syncreon"
+  },
+  {
+    "name": "DHL Parcel UK",
+    "code": "dhl-parcel-uk"
+  },
+  {
+    "name": "JRMT",
+    "code": "jrmt"
+  },
+  {
+    "name": "Itella",
+    "code": "itella"
+  },
+  {
+    "name": "CJ Logistics Korea",
+    "code": "cj-logistics-kr"
+  },
+  {
+    "name": "Best Express Malaysia",
+    "code": "best-express-my"
+  },
+  {
+    "name": "Dpost.be / Parcel.nl",
+    "code": "dpost-be"
+  },
+  {
+    "name": "AnterAja",
+    "code": "anteraja"
+  },
+  {
+    "name": "Paack",
+    "code": "paack"
+  },
+  {
+    "name": "Starken",
+    "code": "starken"
+  },
+  {
+    "name": "Hanjin Express",
+    "code": "hanjin"
+  },
+  {
+    "name": "XPO Logistics",
+    "code": "xpo"
+  },
+  {
+    "name": "RXO",
+    "code": "rxo"
+  },
+  {
+    "name": "Day Ross Sameday",
+    "code": "dayross-sameday"
+  },
+  {
+    "name": "Day Ross Freight",
+    "code": "dayross-freight"
+  },
+  {
+    "name": "DPX eCommerce",
+    "code": "dpx-ecommerce"
+  },
+  {
+    "name": "YDH",
+    "code": "ydh"
+  },
+  {
+    "name": "XDE",
+    "code": "xde"
+  },
+  {
+    "name": "Wanb Express",
+    "code": "wanb"
+  },
+  {
+    "name": "VASP Expresso",
+    "code": "vasp"
+  },
+  {
+    "name": "JCEX",
+    "code": "jcex"
+  },
+  {
+    "name": "Zajil",
+    "code": "zajil"
+  },
+  {
+    "name": "Anchanto",
+    "code": "anchanto"
+  },
+  {
+    "name": "2GO",
+    "code": "2go"
+  },
+  {
+    "name": "Top Ideal Express",
+    "code": "top-ideal"
+  },
+  {
+    "name": "TheCourierGuy",
+    "code": "thecourierguy"
+  },
+  {
+    "name": "CollectCo",
+    "code": "collectco"
+  },
+  {
+    "name": "CND",
+    "code": "cnd"
+  },
+  {
+    "name": "Slovenia Post",
+    "code": "slovenia-post"
+  },
+  {
+    "name": "Letian Parcel",
+    "code": "letian"
+  },
+  {
+    "name": "Yamato America",
+    "code": "yamato-america"
+  },
+  {
+    "name": "Wahana",
+    "code": "wahana"
+  },
+  {
+    "name": "W Express Cargo",
+    "code": "w-express"
+  },
+  {
+    "name": "Wizmo",
+    "code": "wizmo"
+  },
+  {
+    "name": "GHN",
+    "code": "ghn"
+  },
+  {
+    "name": "Hound",
+    "code": "hound"
+  },
+  {
+    "name": "GoGo",
+    "code": "gogo"
+  },
+  {
+    "name": "Hunter Express",
+    "code": "hunter-express"
+  },
+  {
+    "name": "JNET",
+    "code": "jnet"
+  },
+  {
+    "name": "Joyingbox",
+    "code": "joyingbox"
+  },
+  {
+    "name": "Juxi",
+    "code": "juxi"
+  },
+  {
+    "name": "Joom Logistics",
+    "code": "joom"
+  },
+  {
+    "name": "Boxtal",
+    "code": "boxtal"
+  },
+  {
+    "name": "OrangeDS",
+    "code": "orangeds"
+  },
+  {
+    "name": "DEQI",
+    "code": "deqi"
+  },
+  {
+    "name": "iMile",
+    "code": "imile"
+  },
+  {
+    "name": "Wiseloads",
+    "code": "wiseloads"
+  },
+  {
+    "name": "EPantos",
+    "code": "epantos"
+  },
+  {
+    "name": "Borderfree",
+    "code": "borderfree"
+  },
+  {
+    "name": "JSExpress",
+    "code": "jsexpress"
+  },
+  {
+    "name": "CTT Portugal",
+    "code": "ctt"
+  },
+  {
+    "name": "CTT Express",
+    "code": "ctt-express"
+  },
+  {
+    "name": "Go! Express",
+    "code": "go-express"
+  },
+  {
+    "name": "Stallion",
+    "code": "stallion"
+  },
+  {
+    "name": "ECMS",
+    "code": "ecms"
+  },
+  {
+    "name": "WEL",
+    "code": "wel"
+  },
+  {
+    "name": "Asigna.es",
+    "code": "asigna"
+  },
+  {
+    "name": "DeliverE",
+    "code": "delivere"
+  },
+  {
+    "name": "Po\u0219ta Rom\u00e2n\u0103",
+    "code": "posta-romana"
+  },
+  {
+    "name": "Quality Post",
+    "code": "quality-post"
+  },
+  {
+    "name": "InPost.co.uk",
+    "code": "inpost-uk"
+  },
+  {
+    "name": "InPost.pl",
+    "code": "inpost-pl"
+  },
+  {
+    "name": "InPost.it",
+    "code": "inpost-it"
+  },
+  {
+    "name": "GLS",
+    "code": "gls"
+  },
+  {
+    "name": "EQT",
+    "code": "eqt"
+  },
+  {
+    "name": "LetterTrack",
+    "code": "lettertrack"
+  },
+  {
+    "name": "Loggi",
+    "code": "loggi"
+  },
+  {
+    "name": "Elta Courier",
+    "code": "elta"
+  },
+  {
+    "name": "MyLogicon",
+    "code": "mylogicon"
+  },
+  {
+    "name": "Royal Shipments",
+    "code": "royal-shipments"
+  },
+  {
+    "name": "YJI/Yanjin",
+    "code": "yji"
+  },
+  {
+    "name": "Fastdespatch",
+    "code": "fastdespatch"
+  },
+  {
+    "name": "csmlogistics.co.uk",
+    "code": "csmlogistics"
+  },
+  {
+    "name": "Trunkrs",
+    "code": "trunkrs"
+  },
+  {
+    "name": "Payo.asia",
+    "code": "payo"
+  },
+  {
+    "name": "DAI Post",
+    "code": "dai-post"
+  },
+  {
+    "name": "MOX",
+    "code": "mox"
+  },
+  {
+    "name": "Packs.nl",
+    "code": "packs-nl"
+  },
+  {
+    "name": "expedico.eu",
+    "code": "expedico"
+  },
+  {
+    "name": "GlobalEco",
+    "code": "globaleco"
+  },
+  {
+    "name": "Trans-o-Flex",
+    "code": "transoflex"
+  },
+  {
+    "name": "TakeSend",
+    "code": "takesend"
+  },
+  {
+    "name": "TNT Australia",
+    "code": "tnt-au"
+  },
+  {
+    "name": "PackSend.com.au",
+    "code": "packsend"
+  },
+  {
+    "name": "interlogistica.bg",
+    "code": "interlogistica"
+  },
+  {
+    "name": "PostaPlus",
+    "code": "postaplus"
+  },
+  {
+    "name": "ACP E-Commerce/AirCityPost",
+    "code": "aircitypost"
+  },
+  {
+    "name": "HFD.co.il/e-Post",
+    "code": "hfd-epost"
+  },
+  {
+    "name": "OCS Middle East",
+    "code": "ocs-me"
+  },
+  {
+    "name": "TFM Express",
+    "code": "tfm"
+  },
+  {
+    "name": "Broad Reach",
+    "code": "broadreach"
+  },
+  {
+    "name": "callcourier.com.pk",
+    "code": "callcourier"
+  },
+  {
+    "name": "Rivolution.com",
+    "code": "rivolution"
+  },
+  {
+    "name": "R+L Carriers",
+    "code": "rl-carriers"
+  },
+  {
+    "name": "UniUni",
+    "code": "uniuni"
+  },
+  {
+    "name": "Unieuro.it",
+    "code": "unieuro"
+  },
+  {
+    "name": "UDS",
+    "code": "uds"
+  },
+  {
+    "name": "Usky",
+    "code": "usky"
+  },
+  {
+    "name": "PFL Logistics",
+    "code": "pfl"
+  },
+  {
+    "name": "Drop2Shop",
+    "code": "drop2shop"
+  },
+  {
+    "name": "Shipnergy",
+    "code": "shipnergy"
+  },
+  {
+    "name": "ED Post",
+    "code": "ed-post"
+  },
+  {
+    "name": "Hermes 2-Mann-Handling",
+    "code": "hermes-2mann"
+  },
+  {
+    "name": "sap-express.id",
+    "code": "sap-express"
+  },
+  {
+    "name": "idexpress.com",
+    "code": "idexpress"
+  },
+  {
+    "name": "dakotacargo.co.id",
+    "code": "dakotacargo"
+  },
+  {
+    "name": "globkurier.pl",
+    "code": "globkurier"
+  },
+  {
+    "name": "Janco",
+    "code": "janco"
+  },
+  {
+    "name": "Southeastern Freight Lines",
+    "code": "sefl"
+  },
+  {
+    "name": "air21.com.ph",
+    "code": "air21-ph"
+  },
+  {
+    "name": "JTCargo ID",
+    "code": "jtcargo-id"
+  },
+  {
+    "name": "JTCargo MY",
+    "code": "jtcargo-my"
+  },
+  {
+    "name": "Fast Courier AU",
+    "code": "fastcourier-au"
+  },
+  {
+    "name": "Joeyco",
+    "code": "joeyco"
+  },
+  {
+    "name": "Echo",
+    "code": "echo"
+  },
+  {
+    "name": "NIM Express",
+    "code": "nim-express"
+  },
+  {
+    "name": "17EXP",
+    "code": "17exp"
+  },
+  {
+    "name": "IDS Logistik",
+    "code": "ids-logistik"
+  },
+  {
+    "name": "Szendex",
+    "code": "szendex"
+  },
+  {
+    "name": "ParXL",
+    "code": "parxl"
+  },
+  {
+    "name": "The Delivery Group",
+    "code": "tdg"
+  },
+  {
+    "name": "Transglobal Express UK",
+    "code": "transglobal-uk"
+  },
+  {
+    "name": "ZIM",
+    "code": "zim"
+  },
+  {
+    "name": "Best Transport Sweden",
+    "code": "best-transport-se"
+  },
+  {
+    "name": "DH Gate",
+    "code": "dhgate"
+  },
+  {
+    "name": "Sinotrans",
+    "code": "sinotrans"
+  },
+  {
+    "name": "Instabox.io",
+    "code": "instabox"
+  },
+  {
+    "name": "Cepra.de/CargoLine",
+    "code": "cargoline"
+  },
+  {
+    "name": "Airpak Express",
+    "code": "airpak"
+  },
+  {
+    "name": "Swiship.com",
+    "code": "swiship"
+  },
+  {
+    "name": "Swiship DE",
+    "code": "swiship-de"
+  },
+  {
+    "name": "Swiship FR",
+    "code": "swiship-fr"
+  },
+  {
+    "name": "Swiship UK",
+    "code": "swiship-uk"
+  },
+  {
+    "name": "Fukuyama Transporting (\u798f\u5c71\u901a\u904b)",
+    "code": "fukuyama"
+  },
+  {
+    "name": "BoxNow.gr",
+    "code": "boxnow-gr"
+  },
+  {
+    "name": "BoxNow.bg",
+    "code": "boxnow-bg"
+  },
+  {
+    "name": "TopYou",
+    "code": "topyou"
+  },
+  {
+    "name": "TIG Freight",
+    "code": "tig-freight"
+  },
+  {
+    "name": "Optima",
+    "code": "optima"
+  },
+  {
+    "name": "Leopards Courier",
+    "code": "leopards"
+  }
+]
