@@ -1,4 +1,4 @@
-Waiting on a UK parcel without clear milestones is one of the most common buyer frustrations. Whether your order left a ParcelShop, is out with a local courier, or a calling card was left at your door, knowing how to use **Evri tracking** turns uncertainty into a simple status check. [evritracking.com](/) is built for that job: paste your 16-digit tracking number or 8-digit calling card, read the live Cainiao timeline, and understand what each milestone means.
+Waiting on a UK parcel without clear milestones is one of the most common buyer frustrations. Whether your order left a ParcelShop, is out with a local courier, or a calling card was left at your door, knowing how to use **Evri tracking** turns uncertainty into a simple status check. [everitracking.com](/) is built for that job: paste your 16-digit tracking number or 8-digit calling card, read the live Cainiao timeline, and understand what each milestone means.
 
 ## What Is Evri Tracking?
 

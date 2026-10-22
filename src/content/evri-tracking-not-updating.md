@@ -22,7 +22,7 @@ Contact the **sender** (retailer) if:
 
 ## Checklist before you escalate
 
-1. **Re-paste** the full 16-digit number (or 8-digit calling card) into [evritracking.com](/).  
+1. **Re-paste** the full 16-digit number (or 8-digit calling card) into [everitracking.com](/).  
 2. Confirm you are not mixing order ID with tracking ID.  
 3. Check spam for newer retailer emails.  
 4. Ask neighbours / check safe places if a delivery attempt was made.  

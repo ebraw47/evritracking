@@ -10,9 +10,9 @@ Tracking an Evri parcel is straightforward once you have the right reference. Us
 
 Retailers usually email or text the 16-character code when the parcel is despatched.
 
-## Method 1 — Track on evritracking.com (Cainiao live)
+## Method 1 — Track on everitracking.com (Cainiao live)
 
-1. Open [evritracking.com](/).  
+1. Open [everitracking.com](/).  
 2. Paste the full tracking number (or calling card) into the tracker.  
 3. Tap **Track** and read the milestone timeline powered by Cainiao.  
 4. Optional: choose Evri in the carrier picker if several networks look similar.  

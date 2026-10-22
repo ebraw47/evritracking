@@ -1,13 +1,13 @@
-/** Central brand / domain config for evritracking (Evri parcel tracking) */
-export const SITE_ORIGIN = "https://evritracking.com";
+/** Central brand / domain config for everitracking (Evri parcel tracking) */
+export const SITE_ORIGIN = "https://everitracking.com";
 
 export const BRAND = {
   name: "EVRitracking",
   shortName: "EVRitracking",
   keyword: "evritracking",
-  domain: "evritracking.com",
-  email: "contact@evritracking.com",
-  twitter: "@evritracking",
+  domain: "everitracking.com",
+  email: "contact@everitracking.com",
+  twitter: "@everitracking",
   tagline: "Track Evri parcels, deliveries & returns",
   description:
     "Track Evri UK parcels with your 16-digit tracking number or 8-digit calling card. Live Cainiao-powered status, divert tips, and clear milestone guides.",
@@ -133,7 +133,7 @@ export const HOME_FAQS = [
     a: "Yes. evritracking looks up your number through Cainiao’s live tracking feed and shows the latest available milestones for that reference.",
   },
   {
-    q: "Is evritracking.com affiliated with Evri?",
-    a: "No. evritracking.com is an independent tracking information site. We are not Evri Limited. For claims and network-managed diversions, use Evri’s own channels or your retailer. Official UK phone: +44 330 808 5456.",
+    q: "Is everitracking.com affiliated with Evri?",
+    a: "No. everitracking.com is an independent tracking information site. We are not Evri Limited. For claims and network-managed diversions, use Evri’s own channels or your retailer. Official UK phone: +44 330 808 5456.",
   },
 ] as const;

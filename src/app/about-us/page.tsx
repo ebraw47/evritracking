@@ -7,7 +7,7 @@ import { BRAND, ROUTES, SITE_ORIGIN } from "@/lib/siteConfig";
 const PAGE_URL = `${SITE_ORIGIN}${ROUTES.about}`;
 const PAGE_TITLE = "About Us | evritracking";
 const PAGE_DESCRIPTION =
-  "Discover evritracking.com — real-time Evri parcel tracking, multi-carrier updates, and clear milestone guides.";
+  "Discover everitracking.com — real-time Evri parcel tracking, multi-carrier updates, and clear milestone guides.";
 
 export const metadata: Metadata = {
   title: { absolute: PAGE_TITLE },

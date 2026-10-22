@@ -65,7 +65,7 @@ async function trackViaCainiao(
     headers: {
       Accept: "application/json, text/plain, */*",
       "User-Agent":
-        "Mozilla/5.0 (compatible; evritracking/1.0; +https://evritracking.com)",
+        "Mozilla/5.0 (compatible; evritracking/1.0; +https://everitracking.com)",
       Referer: "https://global.cainiao.com/",
     },
     cache: "no-store",

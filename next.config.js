@@ -15,7 +15,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "evritracking.com",
+        hostname: "everitracking.com",
       },
     ],
     formats: ["image/webp"],
@@ -60,7 +60,7 @@ const nextConfig = {
               "style-src 'self' 'unsafe-inline'",
               "img-src 'self' data: https:",
               "font-src 'self' data:",
-              "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://www.googletagmanager.com https://pagead2.googlesyndication.com https://api.17track.net https://api.trackingmore.com https://evritracking.com https://global.cainiao.com",
+              "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://www.googletagmanager.com https://pagead2.googlesyndication.com https://api.17track.net https://api.trackingmore.com https://everitracking.com https://global.cainiao.com",
               "frame-src 'self' https://googleads.g.doubleclick.net https://tpc.googlesyndication.com",
               "frame-ancestors 'none'",
               "base-uri 'self'",

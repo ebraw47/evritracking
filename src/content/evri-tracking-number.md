@@ -12,7 +12,7 @@ You’ll usually find it:
 - In Evri delivery notifications  
 - On the postage label if you sent the parcel yourself  
 
-Copy the **entire** string into the tracker on [evritracking.com](/).
+Copy the **entire** string into the tracker on [everitracking.com](/).
 
 ## The 8-digit calling card number
 

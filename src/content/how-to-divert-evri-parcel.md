@@ -4,7 +4,7 @@ If you will not be home for an Evri delivery, diverting early keeps parcels secu
 
 ## How diversion works
 
-1. Track your parcel on [evritracking.com](/) with the **16-digit tracking number**.  
+1. Track your parcel on [everitracking.com](/) with the **16-digit tracking number**.  
 2. Use your **delivery postcode** with the diversion tools shown for your service when available.  
 3. Review the delivery options shown.  
 
@@ -43,4 +43,4 @@ Add these via Evri My Places / app / the link in your delivery confirmation when
 - Call **+44 330 808 5456**  
 - [Contact Us](/contact-us)  
 
-evritracking.com is independent and not affiliated with Evri Limited.
+everitracking.com is independent and not affiliated with Evri Limited.

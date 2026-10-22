@@ -1,4 +1,4 @@
-# SEO Strategy — evritracking (evritracking.com)
+# SEO Strategy — evritracking (everitracking.com)
 
 ## Primary keyword
 
@@ -15,7 +15,7 @@
 
 ## Technical
 
-- Canonical host: `https://evritracking.com`
+- Canonical host: `https://everitracking.com`
 - Sitemap index: `/sitemap-index.xml` → `/index.xml` + `/image-sitemap.xml`
 - Robots with Content-Signal + AI training bot blocks
 - Article + FAQ + Organization + WebSite JSON-LD

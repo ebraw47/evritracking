@@ -1,6 +1,6 @@
 # Disclaimer
 
-[evritracking.com](/) is an **independent** multi-carrier tracking and information website. We are **not** affiliated with, endorsed by, or sponsored by Evri Limited or any of its subsidiaries. Brand names and marks belong to their respective owners and are used here only to describe tracking topics users search for.
+[everitracking.com](/) is an **independent** multi-carrier tracking and information website. We are **not** affiliated with, endorsed by, or sponsored by Evri Limited or any of its subsidiaries. Brand names and marks belong to their respective owners and are used here only to describe tracking topics users search for.
 
 ## Tracking data
 
@@ -12,8 +12,8 @@ The official Evri UK phone number listed on our Contact page is **+44 330 808 54
 
 ## No liability
 
-To the fullest extent permitted by law, evritracking.com and its operators are not liable for lost packages, delayed decisions, marketplace disputes, or damages arising from reliance on tracking displays or articles on this site.
+To the fullest extent permitted by law, everitracking.com and its operators are not liable for lost packages, delayed decisions, marketplace disputes, or damages arising from reliance on tracking displays or articles on this site.
 
 ## Questions
 
-Questions about this disclaimer: [contact@evritracking.com](mailto:contact@evritracking.com).
+Questions about this disclaimer: [contact@everitracking.com](mailto:contact@everitracking.com).

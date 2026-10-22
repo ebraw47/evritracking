@@ -1,4 +1,4 @@
-import { SITE_ORIGIN } from "@/lib/siteConfig";
+import { BRAND, SITE_ORIGIN } from "@/lib/siteConfig";
 
 export function GET() {
   const body = `# As a condition of accessing this website, you agree to abide by the following
@@ -66,7 +66,9 @@ User-agent: *
 Disallow: /api/
 Disallow: /_next/
 
+Host: ${BRAND.domain}
 Sitemap: ${SITE_ORIGIN}/sitemap-index.xml
+Sitemap: ${SITE_ORIGIN}/sitemap_index.xml
 `;
 
   return new Response(body, {

@@ -14,7 +14,7 @@ export type SitemapImage = {
   caption: string;
 };
 
-const TODAY = "2026-10-22";
+const TODAY = "2026-10-23";
 
 export const SITEMAP_PAGES: SitemapPage[] = [
   { path: ROUTES.home, lastmod: TODAY, changefreq: "daily", priority: 1.0 },
@@ -36,13 +36,13 @@ export const SITEMAP_IMAGES: SitemapImage[] = [
     path: IMAGES.logo,
     pagePath: "/",
     title: `${BRAND.name} logo`,
-    caption: "evritracking — track Evri parcels and UK deliveries",
+    caption: `${BRAND.domain} — track Evri parcels and UK deliveries`,
   },
   {
     path: IMAGES.favicon,
     pagePath: "/",
-    title: "evritracking brand mark",
-    caption: "evritracking favicon used in the header",
+    title: `${BRAND.name} brand mark`,
+    caption: `${BRAND.name} favicon used in the header`,
   },
   {
     path: IMAGES.heroVan,

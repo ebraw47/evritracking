@@ -1,6 +1,6 @@
 # evritracking
 
-Independent Next.js site for **SpeedPAK tracking** at [evritracking.com](https://evritracking.com) — EE/ES tracking numbers, eBay cross-border packages, and partner-network scans.
+Independent Next.js site for **SpeedPAK tracking** at [everitracking.com](https://everitracking.com) — EE/ES tracking numbers, eBay cross-border packages, and partner-network scans.
 
 ## Stack
 

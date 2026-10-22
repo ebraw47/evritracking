@@ -6,7 +6,7 @@ import { BRAND, ROUTES, SITE_ORIGIN } from "@/lib/siteConfig";
 
 const PAGE_URL = `${SITE_ORIGIN}${ROUTES.disclaimer}`;
 const PAGE_TITLE = "Disclaimer - evritracking";
-const PAGE_DESCRIPTION = "Disclaimer for https://evritracking.com/";
+const PAGE_DESCRIPTION = "Disclaimer for https://everitracking.com/";
 
 export const metadata: Metadata = {
   title: { absolute: PAGE_TITLE },

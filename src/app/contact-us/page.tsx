@@ -8,7 +8,7 @@ import { BRAND, OFFICIAL, ROUTES, SITE_ORIGIN } from "@/lib/siteConfig";
 const PAGE_URL = `${SITE_ORIGIN}${ROUTES.contact}`;
 const PAGE_TITLE = "Contact Us - evritracking";
 const PAGE_DESCRIPTION =
-  "Contact evritracking.com or reach Evri UK support on the official phone line.";
+  "Contact everitracking.com or reach Evri UK support on the official phone line.";
 
 export const metadata: Metadata = {
   title: { absolute: PAGE_TITLE },

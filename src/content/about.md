@@ -1,6 +1,6 @@
 # About Us
 
-Welcome to [evritracking.com](/), your independent destination for real-time **Evri parcel tracking** and clear UK delivery guidance. Waiting on a courier should feel transparent — not opaque. Our mission is simple: make tracking Evri parcels, calling cards, and returns easy, accurate, and hassle-free.
+Welcome to [everitracking.com](/), your independent destination for real-time **Evri parcel tracking** and clear UK delivery guidance. Waiting on a courier should feel transparent — not opaque. Our mission is simple: make tracking Evri parcels, calling cards, and returns easy, accurate, and hassle-free.
 
 ## Who we are
 
@@ -12,7 +12,7 @@ evritracking is an independent multi-carrier tracking site. We are **not** Evri 
 - Guides on diverting parcels, stalled updates, and finding your number  
 - Real-time Cainiao-powered status timelines  
 
-## Why buyers use evritracking.com
+## Why buyers use everitracking.com
 
 Retailer emails and courier apps each show a slice of the journey. We focus on the tracking reference itself and explain common statuses in plain English.
 
@@ -23,4 +23,4 @@ Retailer emails and courier apps each show a slice of the journey. We focus on t
 
 ## Contact this site
 
-Questions about evritracking.com? Visit [Contact Us](/contact-us) or email [contact@evritracking.com](mailto:contact@evritracking.com).
+Questions about everitracking.com? Visit [Contact Us](/contact-us) or email [contact@everitracking.com](mailto:contact@everitracking.com).

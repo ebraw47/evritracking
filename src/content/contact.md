@@ -1,10 +1,10 @@
 # Contact Us
 
-Have a question about [evritracking.com](/), a guide on our blog, or a technical issue with the tracker? We read every message and reply as soon as we can.
+Have a question about [everitracking.com](/), a guide on our blog, or a technical issue with the tracker? We read every message and reply as soon as we can.
 
 ## Email this site
 
-Send details to **[contact@evritracking.com](mailto:contact@evritracking.com)**.
+Send details to **[contact@everitracking.com](mailto:contact@everitracking.com)**.
 
 ## Official Evri UK tracking support
 

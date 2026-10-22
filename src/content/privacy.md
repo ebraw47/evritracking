@@ -1,10 +1,10 @@
 # Privacy Policy
 
-This Privacy Policy explains how **evritracking.com** (“we”, “us”, or “our”) handles information when you use https://evritracking.com and related pages.
+This Privacy Policy explains how **everitracking.com** (“we”, “us”, or “our”) handles information when you use https://everitracking.com and related pages.
 
 ## Who we are
 
-evritracking.com is an independent package tracking website. We are not affiliated with Evri Limited. Contact: [contact@evritracking.com](mailto:contact@evritracking.com).
+everitracking.com is an independent package tracking website. We are not affiliated with Evri Limited. Contact: [contact@everitracking.com](mailto:contact@everitracking.com).
 
 ## Information we collect
 
@@ -27,7 +27,7 @@ Tracking lookups call Cainiao’s tracking API. Analytics or advertising partner
 
 ## Your choices
 
-- Request correction or deletion of personal data you sent us by emailing [contact@evritracking.com](mailto:contact@evritracking.com)  
+- Request correction or deletion of personal data you sent us by emailing [contact@everitracking.com](mailto:contact@everitracking.com)  
 - Use browser controls to block non-essential cookies  
 
 ## Retention
@@ -40,4 +40,4 @@ We may update this policy; related legal pages will change when we do.
 
 ## Contact
 
-Privacy questions: [contact@evritracking.com](mailto:contact@evritracking.com).
+Privacy questions: [contact@everitracking.com](mailto:contact@everitracking.com).
