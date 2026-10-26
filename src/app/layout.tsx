@@ -64,10 +64,10 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: IMAGES.favicon, type: "image/jpeg", sizes: "192x192" },
-      { url: IMAGES.logo, type: "image/png", sizes: "512x512" },
+      { url: "/favicon.ico", sizes: "any" },
+      { url: IMAGES.favicon, type: "image/png", sizes: "192x192" },
     ],
-    apple: [{ url: IMAGES.favicon, sizes: "180x180" }],
+    apple: [{ url: "/apple-icon.png", sizes: "180x180", type: "image/png" }],
   },
   verification: {
     google: "8a7c21f6e90a89ef",
@@ -114,8 +114,9 @@ export default function RootLayout({
     <html lang="en" className={`${display.variable} ${body.variable}`} suppressHydrationWarning>
       <head>
         <meta name="mobile-web-app-capable" content="yes" />
-        <link rel="icon" href={IMAGES.favicon} type="image/jpeg" sizes="192x192" />
-        <link rel="apple-touch-icon" href={IMAGES.favicon} sizes="180x180" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href={IMAGES.favicon} type="image/png" sizes="192x192" />
+        <link rel="apple-touch-icon" href="/apple-icon.png" sizes="180x180" />
         <link rel="manifest" href="/manifest.json" />
         {adsenseClient && (
           <>

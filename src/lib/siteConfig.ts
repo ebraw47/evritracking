@@ -33,12 +33,12 @@ export const ROUTES = {
 
 export const IMAGES = {
   logo: "/evritracking-official-logo.png",
-  favicon: "/evritracking-favicon.jpg",
+  favicon: "/evritracking-favicon.png",
   brandLogo: "/evritracking-official-logo.png",
   officialLogo: "/evritracking-official-logo.png",
   banner: "/feature/hero-van.jpg",
   og: "/feature/hero-van.jpg",
-  ogSquare: "/evritracking-favicon.jpg",
+  ogSquare: "/evritracking-favicon.png",
   twitter: "/feature/hero-van.jpg",
   website: "/gallery/doorstep-delivery.jpg",
   tool: "/gallery/wrapping-parcel.jpg",
